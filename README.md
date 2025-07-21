@@ -22,7 +22,7 @@ fraud_detection_system/
 
 
 
-## 🗃 Database
+## Database
 
 You can import the `fraud_detection_system-2.sql` file to MySQL to set up the database.
 
